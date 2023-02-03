@@ -1,0 +1,18 @@
+{
+    "students":[{
+        "roll_no": 1,
+        "name": "hari",
+        "location": "jsis",
+        "course":"full stack"
+    }
+    ],
+    "teachers":[
+        {
+            "emp_id": 1,
+            "name": "Albert",
+            "sub": "Coding",
+            "exp": 5
+    }
+    ]
+
+}
